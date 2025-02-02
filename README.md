@@ -34,26 +34,13 @@ You can use the following commands to navigate and interact within the game:
 - `Inventory`: Displays your current inventory.
 - `Map`: Shows the map of the game world.
 
-#### Combat:
-- `Attack`: Land an attack (slider determines attack effectiveness).
-- `Defend`: Defend against an enemy attack (can block and has a chance to heal).
-- `Focus`: Charge your next attack (blocks incoming attack).
-
 #### Utility Commands:
 - `Save`: Saves your current progress.
 - `Load`: Loads previously saved progress.
 - `Info`: Displays the command help screen.
 - `Exit`: Exits the game.
 - `Help`: Provides an overview of available commands.
-- `Credits`: Displays game credits.
 
-#### Additional Actions:
-- `Pick`: Picks up an item.
-- `Place`: Places an item.
-- `Open`: Opens doors or objects.
-- `Yell`: Perform a yelling action.
-- `Sleep`: Rest to recover.
-- `Clear`: Clears the game screen.
 
 ---
 
